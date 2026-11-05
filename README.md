@@ -9,7 +9,7 @@ HTML, CSS e JavaScript puro, com Git e GitHub. Não precisa instalar nada.
 Baixe ou clone o repositório e abra o arquivo `index.html` no navegador.
 
 ```
-git clone https://github.com/SEU_USUARIO/strange_dream.git
+git clone https://github.com/4SR13L/e-commerce-strange_dream.git
 ```
 
 ## Estrutura
