@@ -1,4 +1,4 @@
-// Estado, carrinho, páginas e pagamento simulado
+
 
 
 const R=v=>'R$ '+v.toFixed(2).replace('.',',');
