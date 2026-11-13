@@ -1,4 +1,4 @@
-// Catálogo de produtos da STRANGEDREAM
+
 const P=[
 {id:1,n:'Pin buttons Haru, Aki e Fuyu',a:'Zeno REMAKE',c:'Acessórios',p:10.9,e:'🔘',bg:'#e6dcc9',img:['img/pin-buttons.svg'],d:'Três pins redondos com os personagens do jogo, acabamento brilhante e fecho de segurança.'},
 {id:2,n:'Pingentes de acrílico Dead Plate',a:'Dead Plate',c:'Acessórios',p:13.9,o:20.75,e:'🗝️',bg:'#ead3d6',img:['img/pingentes.svg'],d:'Par de pingentes de acrílico com impressão frente e verso e argola dourada.'},
